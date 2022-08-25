@@ -1,0 +1,61 @@
+---
+title: "Workshop Facilitator Training"
+author: "Jasmine Lai and Yuka Takemon"
+format: html
+editor: visual
+toc: true
+---
+
+Thank you for agreeing to teach with us this year! This document will go through what the day will look like!
+
+### What we need from you before the workshop
+
+Please email the following to vancouverdatajam \[at\] gmail.com:
+
+1.  A short bio
+2.  What computer you will use (we need to figure out the logistics for connecting your computer to the classroom system)
+3.  Links to your materials
+
+------------------------------------------------------------------------
+
+## Logistics
+
+### Contact Platform
+
+Discord
+
+-   This will be used for general coordination before, during and after the event to reduce the amount of emails that need to go around!
+
+-   Feel free to reach out to Yuka or Jasmine if you need any help getting setup
+
+### Location
+
+TBA
+
+*Accessibility and Access*
+
+TBA
+
+### Day of the event
+
+-   There will be at least one organizer on hand to help assist.
+
+#### Schedule
+
+TBA
+
+## Resources
+
+Cloud computing resources
+
+-   Rstudio Cloud
+
+-   
+
+## Additional Training
+
+September TBA with Kate
+
+Highly recommended if this is your first time teaching or want to level up your skills!
+
+## FAQ
