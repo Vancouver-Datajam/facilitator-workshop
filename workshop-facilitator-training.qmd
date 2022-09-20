@@ -8,45 +8,38 @@ toc: true
 
 Thank you for agreeing to teach with us this year! This document will go through what the day will look like!
 
-### What we need from you before the workshop
-
-Please email the following to vancouverdatajam \[at\] gmail.com:
-
-1.  A short bio
-2.  What computer you will use (we need to figure out the logistics for connecting your computer to the classroom system)
-3.  Links to your materials
-
-------------------------------------------------------------------------
-
-## Logistics
-
-### Contact Platform
-
-Discord
-
--   This will be used for general coordination before, during and after the event to reduce the amount of emails that need to go around!
-
--   Feel free to reach out to Yuka or Jasmine if you need any help getting setup
-
 ### Location
 
-TBA
+Northeastern University - Vancouver Campus
+
+-   We will provide the participant list to Northeastern. Please tell the security that you are here for the Datajam event and your name and they will call the elevator.
 
 *Accessibility and Access*
 
-TBA
+-   
 
 ### Day of the event
 
--   There will be at least one organizer on hand to help assist.
+-   There will be at least one organizer on hand to help assist
+-   There will also be volunteers around at each workshop
 
 #### Schedule
 
-TBA
+#### Parking
+
+Secure parking is available in the underground parkade, accessible from the laneway on the west side of the building. The parking facility will have meters to purchase parking, at the following rates (plus applicable taxes):
+
+· \$3 per half hour
+
+· \$6 per hour
+
+· \$18 All Day until 6pm
+
+· \$10 Evening, 6pm to Close
+
+Outdoor public bike parking is currently available across the street at the Vancouver Public Library.
 
 ## Resources
-
-Cloud computing resources
 
 -   Rstudio Cloud
 
@@ -57,5 +50,9 @@ Cloud computing resources
 September TBA with Kate
 
 Highly recommended if this is your first time teaching or want to level up your skills!
+
+## Contact
+
+Call or text Jasmine at (604) 802-1677
 
 ## FAQ
