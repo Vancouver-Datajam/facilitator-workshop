@@ -8,22 +8,22 @@ toc: true
 
 Thank you for agreeing to teach with us this year! This document will go through what the day will look like!
 
-### Location
-
-Northeastern University - Vancouver Campus
-
--   We will provide the participant list to Northeastern. Please tell the security that you are here for the Datajam event and your name and they will call the elevator.
-
-*Accessibility and Access*
-
--   
-
 ### Day of the event
 
 -   There will be at least one organizer on hand to help assist
 -   There will also be volunteers around at each workshop
 
+#### Location
+
+Northeastern University - Vancouver Campus
+
+> 410 W Georgia St #1400, Vancouver, BC V6B 1Z3
+
+-   We will provide the participant list to Northeastern. Please tell the security that you are here for the Datajam event and your name and they will call the elevator.
+
 #### Schedule
+
+[Run of Show](https://docs.google.com/spreadsheets/d/1oMnrFFCDtJDw949xNyk6ixb7r6xHqqpLnzMEULuNy7A/edit#gid=0)
 
 #### Parking
 
@@ -39,6 +39,12 @@ Secure parking is available in the underground parkade, accessible from the lane
 
 Outdoor public bike parking is currently available across the street at the Vancouver Public Library.
 
+#### Code of Conduct
+
+We have the [presentation](https://docs.google.com/presentation/d/18e8xvcegwKsowc3sqTGIB2L5XqMSUHEpVuMrUncsrO4) for you to use as a jumping off point in beginning your workshop.
+
+We will also have a [form](https://forms.gle/GhhssDKqU55We33w8) to report any incidents. Of course the committee is also around to help. There is also a external code of conduct reviewer that will address any issues that may be related to any of the committee members.
+
 ## Resources
 
 -   Rstudio Cloud
@@ -47,7 +53,7 @@ Outdoor public bike parking is currently available across the street at the Vanc
 
 ## Additional Training
 
-September TBA with Kate
+September 26 with Kate Hertweck - 6:00 PM to 8:00 PM (PST)
 
 Highly recommended if this is your first time teaching or want to level up your skills!
 
