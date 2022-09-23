@@ -94,6 +94,13 @@ taxes):
 Outdoor public bike parking is currently available across the street at
 the Vancouver Public Library.
 
+#### What to bring
+
+- Your computer
+- Any power cables needed for your computer
+- Any dongles needed to connect to a HDMI port
+- Water bottle!
+
 ## Day of Contact
 
 Call or text Jasmine at (604) 802-1677 if there are any issues!
