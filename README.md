@@ -78,6 +78,10 @@ Northeastern University - Vancouver Campus
 -   We will provide the participant list to Northeastern. Please tell
     the security that you are here for the Datajam event and your name
     and they will call the elevator.
+-   The workshops will happen in the classrooms and the event space (for larger workshops). The rooms will look approximately like the image below:
+    
+![UNADJUSTEDNONRAW_thumb_6677](https://user-images.githubusercontent.com/13112379/192927526-e1206aa6-e486-4ab3-b8d8-bd9c32eb006a.jpg)
+
 
 #### Parking
 
